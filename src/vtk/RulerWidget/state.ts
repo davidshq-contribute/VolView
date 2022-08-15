@@ -35,7 +35,7 @@ export default function generateState() {
       mixins: ['origin', 'scale1', 'visible', 'color'],
       initialValues: {
         // diameter
-        scale1: 20,
+        scale1: 30,
         origin: null,
         visible: false,
       },
@@ -46,7 +46,7 @@ export default function generateState() {
       mixins: ['origin', 'scale1', 'visible', 'color'],
       initialValues: {
         // diameter
-        scale1: 20,
+        scale1: 30,
         origin: null,
         visible: false,
       },
